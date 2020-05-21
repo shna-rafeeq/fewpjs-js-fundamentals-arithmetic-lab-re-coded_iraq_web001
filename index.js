@@ -6,4 +6,4 @@ let multiply = num1 * num2;
 
 let random = Math.ceil(Math.random());
 
-let mod = 
+let mod = 64%3;
